@@ -9,3 +9,8 @@ Technologies:
 * Spring 4
 * Spring MVC
 * Spring Web
+
+In this demo, I tried to get rid of web.xml configuration by using WebAppInitializer class instead. This is applied for servlet 3.1 or greater.
+
+# How to run
+mvn jetty:run-war
