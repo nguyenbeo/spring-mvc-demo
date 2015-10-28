@@ -17,7 +17,9 @@ Technologies:
 mvn jetty:run-war
 
 Open web browser and go to:
+
 http://localhost:9999/spring-mvc-demo/changePassword
 
 Test exception handling:
+
 http://localhost:9999/spring-mvc-demo/testExceptionHandling
