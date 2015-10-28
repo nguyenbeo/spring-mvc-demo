@@ -6,14 +6,16 @@ A short demo on how Spring MVC 4 works:
 * Exception handler by using ControllerAdvice
 * Get rid of web.xml configuration by using WebAppInitializer class instead. This is applied for servlet 3.1 or greater.
 
-Technologies:
+# Technologies:
 * Spring 4
 * Spring MVC
 * Spring Web
 * Servlet 3.1
+* Embedded Jetty
 
 
 # How to run
+Run:
 mvn jetty:run-war
 
 Open web browser and go to:
